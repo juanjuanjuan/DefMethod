@@ -11,7 +11,7 @@ namespace CommandApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(args);
+            // Console.WriteLine(Environment.CurrentDirectory);
             List<Person> all = new List<Person>();
 
             // Add all files into one List
