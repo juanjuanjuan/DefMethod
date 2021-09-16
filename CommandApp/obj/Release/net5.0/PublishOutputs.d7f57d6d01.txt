@@ -1,0 +1,5 @@
+D:\Develop\Challenges\DefMethod\CommandApp\bin\Release\net5.0\publish\CommandApp.exe
+D:\Develop\Challenges\DefMethod\CommandApp\bin\Release\net5.0\publish\CommandApp.dll
+D:\Develop\Challenges\DefMethod\CommandApp\bin\Release\net5.0\publish\CommandApp.deps.json
+D:\Develop\Challenges\DefMethod\CommandApp\bin\Release\net5.0\publish\CommandApp.runtimeconfig.json
+D:\Develop\Challenges\DefMethod\CommandApp\bin\Release\net5.0\publish\CommandApp.pdb
