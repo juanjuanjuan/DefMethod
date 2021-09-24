@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
+      "projectUniqueName": "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
       "projectName": "CommandApp.Tests",
-      "projectPath": "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
+      "projectPath": "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\obj\\",
+      "outputPath": "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp\\CommandApp.csproj": {
-              "projectPath": "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp\\CommandApp.csproj"
+            "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp\\CommandApp.csproj": {
+              "projectPath": "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp\\CommandApp.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+eVW9vmNKAG+w7+66GO2nj5bvfhocpONgRU9BMQTc1YdykYuJxfH3wNQ3PU2PGJAoUFHJpjK8Q+pC9mWRo+kg==",
+  "dgSpecHash": "tFAMo2p/F1fIEhc4HDlUEQYzJnsRYxFt2SS7AlrPNBmJS+waME7B46HduSZsiQBahM5hIzQ1BXVFF1nH1s+RMA==",
   "success": true,
-  "projectFilePath": "D:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
+  "projectFilePath": "d:\\Develop\\Challenges\\DefMethod\\CommandAppSln\\CommandApp.Tests\\CommandApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Juan\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
